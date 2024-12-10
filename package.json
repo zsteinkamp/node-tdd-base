@@ -15,7 +15,7 @@
   "author": "Zack Steinkamp",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^9.2.2",
+    "mocha": "^11.0.1",
     "nodemon": "^2.0.22"
   },
   "devDependencies": {
